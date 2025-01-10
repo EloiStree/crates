@@ -15,7 +15,8 @@ cargo test
 ```
 
 ```
-cargo doc
+cargo doc --no-deps
+
 ```
 
 
