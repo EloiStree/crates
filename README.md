@@ -10,10 +10,28 @@ Reminder of how we can publish a crate for Rust.
 
 
 
-`cargo test`  
-`cargo doc`  
-`cargo login`  
-`cargo check`  
-`cargo publish`  
-``    
-``  
+```
+cargo test
+```
+
+```
+cargo doc
+```
+
+
+```
+cargo login
+```
+
+
+
+```
+cargo check
+```
+
+
+```
+cargo publish
+```
+
+
