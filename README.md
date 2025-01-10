@@ -9,6 +9,13 @@ Reminder of how we can publish a crate for Rust.
 - https://github.com/EloiStree?tab=repositories&q=crates_&type=&language=&sort=
 
 
+https://www.rust-lang.org/tools/install
+```
+rustc --version
+cargo --version
+cargo new project_name
+cd project_name
+```
 
 ```
 cargo test
