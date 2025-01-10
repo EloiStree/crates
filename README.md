@@ -7,3 +7,13 @@ Reminder of how we can publish a crate for Rust.
 - https://crates.io/crates/iid
 - https://crates.io/crates/wowint
 - https://github.com/EloiStree?tab=repositories&q=crates_&type=&language=&sort=
+
+
+
+`cargo test`
+`cargo doc`
+`cargo login`
+`cargo check`
+`cargo publish`
+``
+``
